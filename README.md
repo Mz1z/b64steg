@@ -1,5 +1,7 @@
 # b64steg
 
+[![PyPI](https://img.shields.io/pypi/v/b64steg)](https://pypi.org/project/b64steg/)
+
 base64 Steganography, support by python3.
 
 支持python3的base64隐写库。
