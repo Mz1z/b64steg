@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+b64steg/B64steger.py
+b64steg/__init__.py
+b64steg.egg-info/PKG-INFO
+b64steg.egg-info/SOURCES.txt
+b64steg.egg-info/dependency_links.txt
+b64steg.egg-info/top_level.txt

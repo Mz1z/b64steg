@@ -1,1 +1,4 @@
 b64steg/__pycache__/*
+b64steg.egg-info/*
+build/*
+dist/*
